@@ -1,0 +1,10 @@
+C:\Users\Escolar Manager\source\repos\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.exe
+C:\Users\Escolar Manager\source\repos\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.deps.json
+C:\Users\Escolar Manager\source\repos\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.runtimeconfig.json
+C:\Users\Escolar Manager\source\repos\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.runtimeconfig.dev.json
+C:\Users\Escolar Manager\source\repos\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.dll
+C:\Users\Escolar Manager\source\repos\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.pdb
+C:\Users\Escolar Manager\source\repos\Soma\Soma\obj\Debug\netcoreapp3.1\Soma.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\Soma\Soma\obj\Debug\netcoreapp3.1\Soma.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\Soma\Soma\obj\Debug\netcoreapp3.1\Soma.dll
+C:\Users\Escolar Manager\source\repos\Soma\Soma\obj\Debug\netcoreapp3.1\Soma.pdb

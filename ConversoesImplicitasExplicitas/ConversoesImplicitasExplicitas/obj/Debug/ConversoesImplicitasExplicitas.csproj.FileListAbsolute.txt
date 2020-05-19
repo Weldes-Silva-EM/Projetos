@@ -1,0 +1,5 @@
+C:\Users\Escolar Manager\source\repos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\bin\Debug\ConversoesImplicitasExplicitas.exe.config
+C:\Users\Escolar Manager\source\repos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\bin\Debug\ConversoesImplicitasExplicitas.exe
+C:\Users\Escolar Manager\source\repos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\bin\Debug\ConversoesImplicitasExplicitas.pdb
+C:\Users\Escolar Manager\source\repos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\obj\Debug\ConversoesImplicitasExplicitas.exe
+C:\Users\Escolar Manager\source\repos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\obj\Debug\ConversoesImplicitasExplicitas.pdb

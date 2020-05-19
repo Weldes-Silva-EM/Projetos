@@ -1,0 +1,10 @@
+C:\Users\Escolar Manager\source\repos\multiplosDe3\multiplosDe3\obj\Debug\netcoreapp3.1\multiplosDe3.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\multiplosDe3\multiplosDe3\obj\Debug\netcoreapp3.1\multiplosDe3.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\multiplosDe3\multiplosDe3\bin\Debug\netcoreapp3.1\multiplosDe3.exe
+C:\Users\Escolar Manager\source\repos\multiplosDe3\multiplosDe3\bin\Debug\netcoreapp3.1\multiplosDe3.deps.json
+C:\Users\Escolar Manager\source\repos\multiplosDe3\multiplosDe3\bin\Debug\netcoreapp3.1\multiplosDe3.runtimeconfig.json
+C:\Users\Escolar Manager\source\repos\multiplosDe3\multiplosDe3\bin\Debug\netcoreapp3.1\multiplosDe3.runtimeconfig.dev.json
+C:\Users\Escolar Manager\source\repos\multiplosDe3\multiplosDe3\bin\Debug\netcoreapp3.1\multiplosDe3.dll
+C:\Users\Escolar Manager\source\repos\multiplosDe3\multiplosDe3\bin\Debug\netcoreapp3.1\multiplosDe3.pdb
+C:\Users\Escolar Manager\source\repos\multiplosDe3\multiplosDe3\obj\Debug\netcoreapp3.1\multiplosDe3.dll
+C:\Users\Escolar Manager\source\repos\multiplosDe3\multiplosDe3\obj\Debug\netcoreapp3.1\multiplosDe3.pdb

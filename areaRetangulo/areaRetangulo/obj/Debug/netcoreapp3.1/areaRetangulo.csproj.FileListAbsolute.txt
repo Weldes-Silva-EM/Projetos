@@ -1,0 +1,11 @@
+C:\Users\Escolar Manager\source\repos\areaRetangulo\areaRetangulo\bin\Debug\netcoreapp3.1\areaRetangulo.exe
+C:\Users\Escolar Manager\source\repos\areaRetangulo\areaRetangulo\bin\Debug\netcoreapp3.1\areaRetangulo.deps.json
+C:\Users\Escolar Manager\source\repos\areaRetangulo\areaRetangulo\bin\Debug\netcoreapp3.1\areaRetangulo.runtimeconfig.json
+C:\Users\Escolar Manager\source\repos\areaRetangulo\areaRetangulo\bin\Debug\netcoreapp3.1\areaRetangulo.runtimeconfig.dev.json
+C:\Users\Escolar Manager\source\repos\areaRetangulo\areaRetangulo\bin\Debug\netcoreapp3.1\areaRetangulo.dll
+C:\Users\Escolar Manager\source\repos\areaRetangulo\areaRetangulo\bin\Debug\netcoreapp3.1\areaRetangulo.pdb
+C:\Users\Escolar Manager\source\repos\areaRetangulo\areaRetangulo\obj\Debug\netcoreapp3.1\areaRetangulo.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\areaRetangulo\areaRetangulo\obj\Debug\netcoreapp3.1\areaRetangulo.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\areaRetangulo\areaRetangulo\obj\Debug\netcoreapp3.1\areaRetangulo.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\areaRetangulo\areaRetangulo\obj\Debug\netcoreapp3.1\areaRetangulo.dll
+C:\Users\Escolar Manager\source\repos\areaRetangulo\areaRetangulo\obj\Debug\netcoreapp3.1\areaRetangulo.pdb

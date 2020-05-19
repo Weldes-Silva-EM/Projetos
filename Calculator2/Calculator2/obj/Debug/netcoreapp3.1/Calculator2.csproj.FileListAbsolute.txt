@@ -1,0 +1,10 @@
+C:\Users\Escolar Manager\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.exe
+C:\Users\Escolar Manager\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.deps.json
+C:\Users\Escolar Manager\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.runtimeconfig.json
+C:\Users\Escolar Manager\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.runtimeconfig.dev.json
+C:\Users\Escolar Manager\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.dll
+C:\Users\Escolar Manager\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.pdb
+C:\Users\Escolar Manager\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.dll
+C:\Users\Escolar Manager\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.pdb

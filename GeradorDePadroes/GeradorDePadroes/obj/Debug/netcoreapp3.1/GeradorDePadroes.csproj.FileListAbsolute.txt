@@ -1,0 +1,11 @@
+C:\Users\Escolar Manager\source\repos\GeradorDePadroes\GeradorDePadroes\obj\Debug\netcoreapp3.1\GeradorDePadroes.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\GeradorDePadroes\GeradorDePadroes\obj\Debug\netcoreapp3.1\GeradorDePadroes.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\GeradorDePadroes\GeradorDePadroes\obj\Debug\netcoreapp3.1\GeradorDePadroes.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\GeradorDePadroes\GeradorDePadroes\bin\Debug\netcoreapp3.1\GeradorDePadroes.exe
+C:\Users\Escolar Manager\source\repos\GeradorDePadroes\GeradorDePadroes\bin\Debug\netcoreapp3.1\GeradorDePadroes.deps.json
+C:\Users\Escolar Manager\source\repos\GeradorDePadroes\GeradorDePadroes\bin\Debug\netcoreapp3.1\GeradorDePadroes.runtimeconfig.json
+C:\Users\Escolar Manager\source\repos\GeradorDePadroes\GeradorDePadroes\bin\Debug\netcoreapp3.1\GeradorDePadroes.runtimeconfig.dev.json
+C:\Users\Escolar Manager\source\repos\GeradorDePadroes\GeradorDePadroes\bin\Debug\netcoreapp3.1\GeradorDePadroes.dll
+C:\Users\Escolar Manager\source\repos\GeradorDePadroes\GeradorDePadroes\bin\Debug\netcoreapp3.1\GeradorDePadroes.pdb
+C:\Users\Escolar Manager\source\repos\GeradorDePadroes\GeradorDePadroes\obj\Debug\netcoreapp3.1\GeradorDePadroes.dll
+C:\Users\Escolar Manager\source\repos\GeradorDePadroes\GeradorDePadroes\obj\Debug\netcoreapp3.1\GeradorDePadroes.pdb

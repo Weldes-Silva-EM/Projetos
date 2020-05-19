@@ -1,0 +1,11 @@
+C:\Users\Escolar Manager\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\GenericCalculator.exe
+C:\Users\Escolar Manager\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\GenericCalculator.deps.json
+C:\Users\Escolar Manager\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\GenericCalculator.runtimeconfig.json
+C:\Users\Escolar Manager\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\GenericCalculator.runtimeconfig.dev.json
+C:\Users\Escolar Manager\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\GenericCalculator.dll
+C:\Users\Escolar Manager\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\GenericCalculator.pdb
+C:\Users\Escolar Manager\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\GenericCalculator.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\GenericCalculator.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\GenericCalculator.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\GenericCalculator.dll
+C:\Users\Escolar Manager\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\GenericCalculator.pdb

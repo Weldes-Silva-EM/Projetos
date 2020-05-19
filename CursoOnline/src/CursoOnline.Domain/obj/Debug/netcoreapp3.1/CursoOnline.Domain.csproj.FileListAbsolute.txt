@@ -1,0 +1,8 @@
+C:\Users\Escolar Manager\source\repos\CursoOnline\src\CursoOnline.Domain\bin\Debug\netcoreapp3.1\CursoOnline.Domain.deps.json
+C:\Users\Escolar Manager\source\repos\CursoOnline\src\CursoOnline.Domain\bin\Debug\netcoreapp3.1\CursoOnline.Domain.dll
+C:\Users\Escolar Manager\source\repos\CursoOnline\src\CursoOnline.Domain\bin\Debug\netcoreapp3.1\CursoOnline.Domain.pdb
+C:\Users\Escolar Manager\source\repos\CursoOnline\src\CursoOnline.Domain\obj\Debug\netcoreapp3.1\CursoOnline.Domain.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\CursoOnline\src\CursoOnline.Domain\obj\Debug\netcoreapp3.1\CursoOnline.Domain.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\CursoOnline\src\CursoOnline.Domain\obj\Debug\netcoreapp3.1\CursoOnline.Domain.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\CursoOnline\src\CursoOnline.Domain\obj\Debug\netcoreapp3.1\CursoOnline.Domain.dll
+C:\Users\Escolar Manager\source\repos\CursoOnline\src\CursoOnline.Domain\obj\Debug\netcoreapp3.1\CursoOnline.Domain.pdb

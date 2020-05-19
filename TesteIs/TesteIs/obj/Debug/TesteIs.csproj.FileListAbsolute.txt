@@ -1,0 +1,6 @@
+C:\Users\Escolar Manager\source\repos\TesteIs\TesteIs\bin\Debug\TesteIs.exe.config
+C:\Users\Escolar Manager\source\repos\TesteIs\TesteIs\bin\Debug\TesteIs.exe
+C:\Users\Escolar Manager\source\repos\TesteIs\TesteIs\bin\Debug\TesteIs.pdb
+C:\Users\Escolar Manager\source\repos\TesteIs\TesteIs\obj\Debug\TesteIs.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\TesteIs\TesteIs\obj\Debug\TesteIs.exe
+C:\Users\Escolar Manager\source\repos\TesteIs\TesteIs\obj\Debug\TesteIs.pdb

@@ -1,0 +1,11 @@
+C:\Users\Escolar Manager\source\repos\GetHashCode1\GetHashCode1\bin\Debug\netcoreapp3.1\GetHashCode1.exe
+C:\Users\Escolar Manager\source\repos\GetHashCode1\GetHashCode1\bin\Debug\netcoreapp3.1\GetHashCode1.deps.json
+C:\Users\Escolar Manager\source\repos\GetHashCode1\GetHashCode1\bin\Debug\netcoreapp3.1\GetHashCode1.runtimeconfig.json
+C:\Users\Escolar Manager\source\repos\GetHashCode1\GetHashCode1\bin\Debug\netcoreapp3.1\GetHashCode1.runtimeconfig.dev.json
+C:\Users\Escolar Manager\source\repos\GetHashCode1\GetHashCode1\bin\Debug\netcoreapp3.1\GetHashCode1.dll
+C:\Users\Escolar Manager\source\repos\GetHashCode1\GetHashCode1\bin\Debug\netcoreapp3.1\GetHashCode1.pdb
+C:\Users\Escolar Manager\source\repos\GetHashCode1\GetHashCode1\obj\Debug\netcoreapp3.1\GetHashCode1.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\GetHashCode1\GetHashCode1\obj\Debug\netcoreapp3.1\GetHashCode1.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\GetHashCode1\GetHashCode1\obj\Debug\netcoreapp3.1\GetHashCode1.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\GetHashCode1\GetHashCode1\obj\Debug\netcoreapp3.1\GetHashCode1.dll
+C:\Users\Escolar Manager\source\repos\GetHashCode1\GetHashCode1\obj\Debug\netcoreapp3.1\GetHashCode1.pdb

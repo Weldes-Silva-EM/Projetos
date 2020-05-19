@@ -1,0 +1,10 @@
+C:\Users\Escolar Manager\source\repos\ToString3\ToString3\obj\Debug\netcoreapp3.1\ToString3.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\ToString3\ToString3\obj\Debug\netcoreapp3.1\ToString3.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\ToString3\ToString3\bin\Debug\netcoreapp3.1\ToString3.exe
+C:\Users\Escolar Manager\source\repos\ToString3\ToString3\bin\Debug\netcoreapp3.1\ToString3.deps.json
+C:\Users\Escolar Manager\source\repos\ToString3\ToString3\bin\Debug\netcoreapp3.1\ToString3.runtimeconfig.json
+C:\Users\Escolar Manager\source\repos\ToString3\ToString3\bin\Debug\netcoreapp3.1\ToString3.runtimeconfig.dev.json
+C:\Users\Escolar Manager\source\repos\ToString3\ToString3\bin\Debug\netcoreapp3.1\ToString3.dll
+C:\Users\Escolar Manager\source\repos\ToString3\ToString3\bin\Debug\netcoreapp3.1\ToString3.pdb
+C:\Users\Escolar Manager\source\repos\ToString3\ToString3\obj\Debug\netcoreapp3.1\ToString3.dll
+C:\Users\Escolar Manager\source\repos\ToString3\ToString3\obj\Debug\netcoreapp3.1\ToString3.pdb

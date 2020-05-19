@@ -1,0 +1,6 @@
+C:\Users\Escolar Manager\source\repos\Calculator3\Calculator3\bin\Debug\Calculator3.exe.config
+C:\Users\Escolar Manager\source\repos\Calculator3\Calculator3\bin\Debug\Calculator3.exe
+C:\Users\Escolar Manager\source\repos\Calculator3\Calculator3\bin\Debug\Calculator3.pdb
+C:\Users\Escolar Manager\source\repos\Calculator3\Calculator3\obj\Debug\Calculator3.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\Calculator3\Calculator3\obj\Debug\Calculator3.exe
+C:\Users\Escolar Manager\source\repos\Calculator3\Calculator3\obj\Debug\Calculator3.pdb

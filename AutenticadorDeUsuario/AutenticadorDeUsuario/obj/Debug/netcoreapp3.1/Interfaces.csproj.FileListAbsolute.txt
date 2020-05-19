@@ -1,0 +1,3 @@
+C:\Users\Escolar Manager\source\repos\AutenticadorDeUsuario\AutenticadorDeUsuario\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\AutenticadorDeUsuario\AutenticadorDeUsuario\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\AutenticadorDeUsuario\AutenticadorDeUsuario\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache

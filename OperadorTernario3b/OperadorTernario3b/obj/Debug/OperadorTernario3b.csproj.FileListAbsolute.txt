@@ -1,0 +1,6 @@
+C:\Users\Escolar Manager\source\repos\OperadorTernario3b\OperadorTernario3b\bin\Debug\OperadorTernario3b.exe.config
+C:\Users\Escolar Manager\source\repos\OperadorTernario3b\OperadorTernario3b\bin\Debug\OperadorTernario3b.exe
+C:\Users\Escolar Manager\source\repos\OperadorTernario3b\OperadorTernario3b\bin\Debug\OperadorTernario3b.pdb
+C:\Users\Escolar Manager\source\repos\OperadorTernario3b\OperadorTernario3b\obj\Debug\OperadorTernario3b.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\OperadorTernario3b\OperadorTernario3b\obj\Debug\OperadorTernario3b.exe
+C:\Users\Escolar Manager\source\repos\OperadorTernario3b\OperadorTernario3b\obj\Debug\OperadorTernario3b.pdb

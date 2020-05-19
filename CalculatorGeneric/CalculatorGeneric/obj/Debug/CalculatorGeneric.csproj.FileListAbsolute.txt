@@ -1,0 +1,6 @@
+C:\Users\Escolar Manager\source\repos\CalculatorGeneric\CalculatorGeneric\bin\Debug\CalculatorGeneric.exe.config
+C:\Users\Escolar Manager\source\repos\CalculatorGeneric\CalculatorGeneric\bin\Debug\CalculatorGeneric.exe
+C:\Users\Escolar Manager\source\repos\CalculatorGeneric\CalculatorGeneric\bin\Debug\CalculatorGeneric.pdb
+C:\Users\Escolar Manager\source\repos\CalculatorGeneric\CalculatorGeneric\obj\Debug\CalculatorGeneric.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\CalculatorGeneric\CalculatorGeneric\obj\Debug\CalculatorGeneric.exe
+C:\Users\Escolar Manager\source\repos\CalculatorGeneric\CalculatorGeneric\obj\Debug\CalculatorGeneric.pdb

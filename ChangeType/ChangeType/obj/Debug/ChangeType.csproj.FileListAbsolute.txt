@@ -1,0 +1,5 @@
+C:\Users\Escolar Manager\source\repos\ChangeType\ChangeType\bin\Debug\ChangeType.exe.config
+C:\Users\Escolar Manager\source\repos\ChangeType\ChangeType\bin\Debug\ChangeType.exe
+C:\Users\Escolar Manager\source\repos\ChangeType\ChangeType\bin\Debug\ChangeType.pdb
+C:\Users\Escolar Manager\source\repos\ChangeType\ChangeType\obj\Debug\ChangeType.exe
+C:\Users\Escolar Manager\source\repos\ChangeType\ChangeType\obj\Debug\ChangeType.pdb

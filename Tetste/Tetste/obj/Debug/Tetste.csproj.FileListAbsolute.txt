@@ -1,0 +1,7 @@
+C:\Users\Escolar Manager\source\repos\Tetste\Tetste\bin\Debug\Tetste.exe.config
+C:\Users\Escolar Manager\source\repos\Tetste\Tetste\bin\Debug\Tetste.exe
+C:\Users\Escolar Manager\source\repos\Tetste\Tetste\bin\Debug\Tetste.pdb
+C:\Users\Escolar Manager\source\repos\Tetste\Tetste\obj\Debug\Tetste.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\Tetste\Tetste\obj\Debug\Tetste.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\source\repos\Tetste\Tetste\obj\Debug\Tetste.exe
+C:\Users\Escolar Manager\source\repos\Tetste\Tetste\obj\Debug\Tetste.pdb

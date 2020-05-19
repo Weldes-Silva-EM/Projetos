@@ -1,0 +1,5 @@
+C:\Users\Escolar Manager\source\repos\OperadorDeCoalescencia\OperadorDeCoalescencia\bin\Debug\OperadorDeCoalescencia.exe.config
+C:\Users\Escolar Manager\source\repos\OperadorDeCoalescencia\OperadorDeCoalescencia\bin\Debug\OperadorDeCoalescencia.exe
+C:\Users\Escolar Manager\source\repos\OperadorDeCoalescencia\OperadorDeCoalescencia\bin\Debug\OperadorDeCoalescencia.pdb
+C:\Users\Escolar Manager\source\repos\OperadorDeCoalescencia\OperadorDeCoalescencia\obj\Debug\OperadorDeCoalescencia.exe
+C:\Users\Escolar Manager\source\repos\OperadorDeCoalescencia\OperadorDeCoalescencia\obj\Debug\OperadorDeCoalescencia.pdb

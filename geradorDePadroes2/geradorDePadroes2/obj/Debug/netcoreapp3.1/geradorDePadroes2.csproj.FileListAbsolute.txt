@@ -1,0 +1,10 @@
+C:\Users\Escolar Manager\source\repos\geradorDePadroes2\geradorDePadroes2\bin\Debug\netcoreapp3.1\geradorDePadroes2.exe
+C:\Users\Escolar Manager\source\repos\geradorDePadroes2\geradorDePadroes2\bin\Debug\netcoreapp3.1\geradorDePadroes2.deps.json
+C:\Users\Escolar Manager\source\repos\geradorDePadroes2\geradorDePadroes2\bin\Debug\netcoreapp3.1\geradorDePadroes2.runtimeconfig.json
+C:\Users\Escolar Manager\source\repos\geradorDePadroes2\geradorDePadroes2\bin\Debug\netcoreapp3.1\geradorDePadroes2.runtimeconfig.dev.json
+C:\Users\Escolar Manager\source\repos\geradorDePadroes2\geradorDePadroes2\bin\Debug\netcoreapp3.1\geradorDePadroes2.dll
+C:\Users\Escolar Manager\source\repos\geradorDePadroes2\geradorDePadroes2\bin\Debug\netcoreapp3.1\geradorDePadroes2.pdb
+C:\Users\Escolar Manager\source\repos\geradorDePadroes2\geradorDePadroes2\obj\Debug\netcoreapp3.1\geradorDePadroes2.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\geradorDePadroes2\geradorDePadroes2\obj\Debug\netcoreapp3.1\geradorDePadroes2.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\geradorDePadroes2\geradorDePadroes2\obj\Debug\netcoreapp3.1\geradorDePadroes2.dll
+C:\Users\Escolar Manager\source\repos\geradorDePadroes2\geradorDePadroes2\obj\Debug\netcoreapp3.1\geradorDePadroes2.pdb

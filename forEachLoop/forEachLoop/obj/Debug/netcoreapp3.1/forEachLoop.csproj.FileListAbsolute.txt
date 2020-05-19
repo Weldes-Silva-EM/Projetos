@@ -1,0 +1,11 @@
+C:\Users\Escolar Manager\source\repos\forEachLoop\forEachLoop\obj\Debug\netcoreapp3.1\forEachLoop.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\source\repos\forEachLoop\forEachLoop\obj\Debug\netcoreapp3.1\forEachLoop.AssemblyInfo.cs
+C:\Users\Escolar Manager\source\repos\forEachLoop\forEachLoop\bin\Debug\netcoreapp3.1\forEachLoop.exe
+C:\Users\Escolar Manager\source\repos\forEachLoop\forEachLoop\bin\Debug\netcoreapp3.1\forEachLoop.deps.json
+C:\Users\Escolar Manager\source\repos\forEachLoop\forEachLoop\bin\Debug\netcoreapp3.1\forEachLoop.runtimeconfig.json
+C:\Users\Escolar Manager\source\repos\forEachLoop\forEachLoop\bin\Debug\netcoreapp3.1\forEachLoop.runtimeconfig.dev.json
+C:\Users\Escolar Manager\source\repos\forEachLoop\forEachLoop\bin\Debug\netcoreapp3.1\forEachLoop.dll
+C:\Users\Escolar Manager\source\repos\forEachLoop\forEachLoop\bin\Debug\netcoreapp3.1\forEachLoop.pdb
+C:\Users\Escolar Manager\source\repos\forEachLoop\forEachLoop\obj\Debug\netcoreapp3.1\forEachLoop.dll
+C:\Users\Escolar Manager\source\repos\forEachLoop\forEachLoop\obj\Debug\netcoreapp3.1\forEachLoop.pdb
+C:\Users\Escolar Manager\source\repos\forEachLoop\forEachLoop\obj\Debug\netcoreapp3.1\forEachLoop.csprojAssemblyReference.cache

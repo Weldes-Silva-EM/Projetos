@@ -1,0 +1,6 @@
+C:\Users\Escolar Manager\source\repos\Nulo\Nulo\obj\Debug\Nulo.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\Nulo\Nulo\bin\Debug\Nulo.exe.config
+C:\Users\Escolar Manager\source\repos\Nulo\Nulo\bin\Debug\Nulo.exe
+C:\Users\Escolar Manager\source\repos\Nulo\Nulo\bin\Debug\Nulo.pdb
+C:\Users\Escolar Manager\source\repos\Nulo\Nulo\obj\Debug\Nulo.exe
+C:\Users\Escolar Manager\source\repos\Nulo\Nulo\obj\Debug\Nulo.pdb

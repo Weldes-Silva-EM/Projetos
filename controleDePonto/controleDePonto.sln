@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controleDePonto", "controleDePonto\controleDePonto.csproj", "{5B177D45-FE77-4484-A08B-5295EF10481D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B177D45-FE77-4484-A08B-5295EF10481D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B177D45-FE77-4484-A08B-5295EF10481D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B177D45-FE77-4484-A08B-5295EF10481D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B177D45-FE77-4484-A08B-5295EF10481D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00043B01-0F80-4A30-B50F-204544BB13DC}
+	EndGlobalSection
+EndGlobal

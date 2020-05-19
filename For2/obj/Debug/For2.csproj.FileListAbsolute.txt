@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Curso\For2\For2\bin\Debug\For2.exe.config
+C:\Users\User\source\repos\Curso\For2\For2\bin\Debug\For2.exe
+C:\Users\User\source\repos\Curso\For2\For2\bin\Debug\For2.pdb
+C:\Users\User\source\repos\Curso\For2\For2\obj\Debug\For2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Curso\For2\For2\obj\Debug\For2.exe
+C:\Users\User\source\repos\Curso\For2\For2\obj\Debug\For2.pdb
+C:\Users\User\source\repos\Curso\For2\For2\obj\Debug\For2.csprojAssemblyReference.cache

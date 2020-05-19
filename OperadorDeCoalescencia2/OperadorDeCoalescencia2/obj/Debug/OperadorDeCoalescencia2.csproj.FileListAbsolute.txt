@@ -1,0 +1,6 @@
+C:\Users\Escolar Manager\source\repos\OperadorDeCoalescencia2\OperadorDeCoalescencia2\bin\Debug\OperadorDeCoalescencia2.exe.config
+C:\Users\Escolar Manager\source\repos\OperadorDeCoalescencia2\OperadorDeCoalescencia2\bin\Debug\OperadorDeCoalescencia2.exe
+C:\Users\Escolar Manager\source\repos\OperadorDeCoalescencia2\OperadorDeCoalescencia2\bin\Debug\OperadorDeCoalescencia2.pdb
+C:\Users\Escolar Manager\source\repos\OperadorDeCoalescencia2\OperadorDeCoalescencia2\obj\Debug\OperadorDeCoalescencia2.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\OperadorDeCoalescencia2\OperadorDeCoalescencia2\obj\Debug\OperadorDeCoalescencia2.exe
+C:\Users\Escolar Manager\source\repos\OperadorDeCoalescencia2\OperadorDeCoalescencia2\obj\Debug\OperadorDeCoalescencia2.pdb

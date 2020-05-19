@@ -1,0 +1,9 @@
+C:\Users\Escolar Manager\source\repos\Saudacao\Saudacao\bin\Debug\Saudacao.exe.config
+C:\Users\Escolar Manager\source\repos\Saudacao\Saudacao\bin\Debug\Saudacao.exe
+C:\Users\Escolar Manager\source\repos\Saudacao\Saudacao\bin\Debug\Saudacao.pdb
+C:\Users\Escolar Manager\source\repos\Saudacao\Saudacao\obj\Debug\Saudacao.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\Saudacao\Saudacao\obj\Debug\Saudacao.Form1.resources
+C:\Users\Escolar Manager\source\repos\Saudacao\Saudacao\obj\Debug\Saudacao.Properties.Resources.resources
+C:\Users\Escolar Manager\source\repos\Saudacao\Saudacao\obj\Debug\Saudacao.csproj.GenerateResource.cache
+C:\Users\Escolar Manager\source\repos\Saudacao\Saudacao\obj\Debug\Saudacao.exe
+C:\Users\Escolar Manager\source\repos\Saudacao\Saudacao\obj\Debug\Saudacao.pdb

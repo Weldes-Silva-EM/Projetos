@@ -1,0 +1,9 @@
+C:\Users\Escolar Manager\source\repos\CalculoDeSalario\CalculoDeSalario\bin\Debug\CalculoDeSalario.exe.config
+C:\Users\Escolar Manager\source\repos\CalculoDeSalario\CalculoDeSalario\bin\Debug\CalculoDeSalario.exe
+C:\Users\Escolar Manager\source\repos\CalculoDeSalario\CalculoDeSalario\bin\Debug\CalculoDeSalario.pdb
+C:\Users\Escolar Manager\source\repos\CalculoDeSalario\CalculoDeSalario\obj\Debug\CalculoDeSalario.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\CalculoDeSalario\CalculoDeSalario\obj\Debug\CalculoDeSalario.Form1.resources
+C:\Users\Escolar Manager\source\repos\CalculoDeSalario\CalculoDeSalario\obj\Debug\CalculoDeSalario.Properties.Resources.resources
+C:\Users\Escolar Manager\source\repos\CalculoDeSalario\CalculoDeSalario\obj\Debug\CalculoDeSalario.csproj.GenerateResource.cache
+C:\Users\Escolar Manager\source\repos\CalculoDeSalario\CalculoDeSalario\obj\Debug\CalculoDeSalario.exe
+C:\Users\Escolar Manager\source\repos\CalculoDeSalario\CalculoDeSalario\obj\Debug\CalculoDeSalario.pdb
