@@ -19,7 +19,7 @@ namespace areaRetangulo
             Console.WriteLine("O valor da área calculado é: " + area);
 
 
-
+            Console.ReadKey();
 
 
 
