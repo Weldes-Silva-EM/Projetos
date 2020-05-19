@@ -20,7 +20,8 @@ namespace areaRetangulo
 
 
             Console.ReadKey();
-            Console.ReadLine();
+            
+         
 
 
 
