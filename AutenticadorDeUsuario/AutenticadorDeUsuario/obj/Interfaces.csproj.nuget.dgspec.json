@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\AutenticadorDeUsuario\\AutenticadorDeUsuario\\Interfaces.csproj": {}
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\AutenticadorDeUsuario\\AutenticadorDeUsuario\\Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\AutenticadorDeUsuario\\AutenticadorDeUsuario\\Interfaces.csproj": {
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\AutenticadorDeUsuario\\AutenticadorDeUsuario\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\AutenticadorDeUsuario\\AutenticadorDeUsuario\\Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\AutenticadorDeUsuario\\AutenticadorDeUsuario\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\AutenticadorDeUsuario\\AutenticadorDeUsuario\\Interfaces.csproj",
+        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\AutenticadorDeUsuario\\AutenticadorDeUsuario\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\AutenticadorDeUsuario\\AutenticadorDeUsuario\\obj\\",
+        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\AutenticadorDeUsuario\\AutenticadorDeUsuario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

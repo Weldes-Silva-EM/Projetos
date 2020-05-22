@@ -20,7 +20,7 @@ namespace controleDePonto
         string horario = String.Format("{0:d/M/yyyy HH:mm:ss}", agora);
 
         Console.WriteLine("SAÍDA: " + f.codigo);
-        Console.WhirteLine("Data: " + horario);
+        Console.WriteLine("Data: " + horario);
     }
 
 }

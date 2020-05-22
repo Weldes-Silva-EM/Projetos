@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\GeradorDePadroes\\GeradorDePadroes\\GeradorDePadroes.csproj": {}
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\GeradorDePadroes\\GeradorDePadroes\\GeradorDePadroes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\GeradorDePadroes\\GeradorDePadroes\\GeradorDePadroes.csproj": {
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\GeradorDePadroes\\GeradorDePadroes\\GeradorDePadroes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\GeradorDePadroes\\GeradorDePadroes\\GeradorDePadroes.csproj",
+        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\GeradorDePadroes\\GeradorDePadroes\\GeradorDePadroes.csproj",
         "projectName": "GeradorDePadroes",
-        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\GeradorDePadroes\\GeradorDePadroes\\GeradorDePadroes.csproj",
+        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\GeradorDePadroes\\GeradorDePadroes\\GeradorDePadroes.csproj",
         "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\GeradorDePadroes\\GeradorDePadroes\\obj\\",
+        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\GeradorDePadroes\\GeradorDePadroes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

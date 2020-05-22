@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {}
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
         "projectName": "ConsoleApp4",
-        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
         "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\ConsoleApp4\\ConsoleApp4\\obj\\",
+        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\ConsoleApp4\\ConsoleApp4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3,3 +3,8 @@ C:\Users\Escolar Manager\source\repos\ConversoesImplicitasExplicitas\ConversoesI
 C:\Users\Escolar Manager\source\repos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\bin\Debug\ConversoesImplicitasExplicitas.pdb
 C:\Users\Escolar Manager\source\repos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\obj\Debug\ConversoesImplicitasExplicitas.exe
 C:\Users\Escolar Manager\source\repos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\obj\Debug\ConversoesImplicitasExplicitas.pdb
+C:\Users\Escolar Manager\source\repos\Projetos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\bin\Debug\ConversoesImplicitasExplicitas.exe.config
+C:\Users\Escolar Manager\source\repos\Projetos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\bin\Debug\ConversoesImplicitasExplicitas.exe
+C:\Users\Escolar Manager\source\repos\Projetos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\bin\Debug\ConversoesImplicitasExplicitas.pdb
+C:\Users\Escolar Manager\source\repos\Projetos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\obj\Debug\ConversoesImplicitasExplicitas.exe
+C:\Users\Escolar Manager\source\repos\Projetos\ConversoesImplicitasExplicitas\ConversoesImplicitasExplicitas\obj\Debug\ConversoesImplicitasExplicitas.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj": {}
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj": {
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj",
         "projectName": "CursoOnline.Domain",
-        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj",
+        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj",
         "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\CursoOnline\\src\\CursoOnline.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\CursoOnline\\src\\CursoOnline.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,3 +7,12 @@ C:\Users\Escolar Manager\source\repos\GridView\GridView\obj\Debug\GridView.Prope
 C:\Users\Escolar Manager\source\repos\GridView\GridView\obj\Debug\GridView.csproj.GenerateResource.cache
 C:\Users\Escolar Manager\source\repos\GridView\GridView\obj\Debug\GridView.exe
 C:\Users\Escolar Manager\source\repos\GridView\GridView\obj\Debug\GridView.pdb
+C:\Users\Escolar Manager\source\repos\Projetos\GridView\GridView\bin\Debug\GridView.exe.config
+C:\Users\Escolar Manager\source\repos\Projetos\GridView\GridView\bin\Debug\GridView.exe
+C:\Users\Escolar Manager\source\repos\Projetos\GridView\GridView\bin\Debug\GridView.pdb
+C:\Users\Escolar Manager\source\repos\Projetos\GridView\GridView\obj\Debug\GridView.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\Projetos\GridView\GridView\obj\Debug\GridView.Form1.resources
+C:\Users\Escolar Manager\source\repos\Projetos\GridView\GridView\obj\Debug\GridView.Properties.Resources.resources
+C:\Users\Escolar Manager\source\repos\Projetos\GridView\GridView\obj\Debug\GridView.csproj.GenerateResource.cache
+C:\Users\Escolar Manager\source\repos\Projetos\GridView\GridView\obj\Debug\GridView.exe
+C:\Users\Escolar Manager\source\repos\Projetos\GridView\GridView\obj\Debug\GridView.pdb

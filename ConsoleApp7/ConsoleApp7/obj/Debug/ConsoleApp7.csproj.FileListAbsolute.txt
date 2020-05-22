@@ -4,3 +4,9 @@ C:\Users\Escolar Manager\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleA
 C:\Users\Escolar Manager\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
 C:\Users\Escolar Manager\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
 C:\Users\Escolar Manager\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\Escolar Manager\source\repos\Projetos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\Escolar Manager\source\repos\Projetos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\Escolar Manager\source\repos\Projetos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\Escolar Manager\source\repos\Projetos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\Projetos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\Escolar Manager\source\repos\Projetos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

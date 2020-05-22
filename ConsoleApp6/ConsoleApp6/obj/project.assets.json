@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+      "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
       "projectName": "ConsoleApp6",
-      "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+      "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
       "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\ConsoleApp6\\ConsoleApp6\\obj\\",
+      "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\ConsoleApp6\\ConsoleApp6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

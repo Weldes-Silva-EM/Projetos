@@ -4,3 +4,9 @@ C:\Users\Escolar Manager\source\repos\CalcGenerica\CalcGenerica\bin\Debug\CalcGe
 C:\Users\Escolar Manager\source\repos\CalcGenerica\CalcGenerica\bin\Debug\CalcGenerica.pdb
 C:\Users\Escolar Manager\source\repos\CalcGenerica\CalcGenerica\obj\Debug\CalcGenerica.exe
 C:\Users\Escolar Manager\source\repos\CalcGenerica\CalcGenerica\obj\Debug\CalcGenerica.pdb
+C:\Users\Escolar Manager\source\repos\Projetos\CalcGenerica\CalcGenerica\bin\Debug\CalcGenerica.exe.config
+C:\Users\Escolar Manager\source\repos\Projetos\CalcGenerica\CalcGenerica\bin\Debug\CalcGenerica.exe
+C:\Users\Escolar Manager\source\repos\Projetos\CalcGenerica\CalcGenerica\bin\Debug\CalcGenerica.pdb
+C:\Users\Escolar Manager\source\repos\Projetos\CalcGenerica\CalcGenerica\obj\Debug\CalcGenerica.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\Projetos\CalcGenerica\CalcGenerica\obj\Debug\CalcGenerica.exe
+C:\Users\Escolar Manager\source\repos\Projetos\CalcGenerica\CalcGenerica\obj\Debug\CalcGenerica.pdb

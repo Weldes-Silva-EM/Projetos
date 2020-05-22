@@ -6877,11 +6877,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\CursoOnline\\test\\CursoOnline.Domain.Test\\CursoOnline.Domain.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\CursoOnline\\test\\CursoOnline.Domain.Test\\CursoOnline.Domain.Test.csproj",
       "projectName": "CursoOnline.Domain.Test",
-      "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\CursoOnline\\test\\CursoOnline.Domain.Test\\CursoOnline.Domain.Test.csproj",
+      "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\CursoOnline\\test\\CursoOnline.Domain.Test\\CursoOnline.Domain.Test.csproj",
       "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\CursoOnline\\test\\CursoOnline.Domain.Test\\obj\\",
+      "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\CursoOnline\\test\\CursoOnline.Domain.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6900,8 +6900,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Escolar Manager\\source\\repos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj": {
-              "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj"
+            "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj": {
+              "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\CursoOnline\\src\\CursoOnline.Domain\\CursoOnline.Domain.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\geradorDePadroes2\\geradorDePadroes2\\geradorDePadroes2.csproj": {}
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\geradorDePadroes2\\geradorDePadroes2\\geradorDePadroes2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\geradorDePadroes2\\geradorDePadroes2\\geradorDePadroes2.csproj": {
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\geradorDePadroes2\\geradorDePadroes2\\geradorDePadroes2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\geradorDePadroes2\\geradorDePadroes2\\geradorDePadroes2.csproj",
+        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\geradorDePadroes2\\geradorDePadroes2\\geradorDePadroes2.csproj",
         "projectName": "geradorDePadroes2",
-        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\geradorDePadroes2\\geradorDePadroes2\\geradorDePadroes2.csproj",
+        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\geradorDePadroes2\\geradorDePadroes2\\geradorDePadroes2.csproj",
         "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\geradorDePadroes2\\geradorDePadroes2\\obj\\",
+        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\geradorDePadroes2\\geradorDePadroes2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

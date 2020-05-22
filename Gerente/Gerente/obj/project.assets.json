@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Gerente\\Gerente\\Gerente.csproj",
+      "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\Gerente\\Gerente\\Gerente.csproj",
       "projectName": "Gerente",
-      "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Gerente\\Gerente\\Gerente.csproj",
+      "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\Gerente\\Gerente\\Gerente.csproj",
       "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Gerente\\Gerente\\obj\\",
+      "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\Gerente\\Gerente\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

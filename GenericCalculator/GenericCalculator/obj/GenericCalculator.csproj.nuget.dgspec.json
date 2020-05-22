@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\GenericCalculator\\GenericCalculator\\GenericCalculator.csproj": {}
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\GenericCalculator\\GenericCalculator\\GenericCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\GenericCalculator\\GenericCalculator\\GenericCalculator.csproj": {
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\GenericCalculator\\GenericCalculator\\GenericCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\GenericCalculator\\GenericCalculator\\GenericCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\GenericCalculator\\GenericCalculator\\GenericCalculator.csproj",
         "projectName": "GenericCalculator",
-        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\GenericCalculator\\GenericCalculator\\GenericCalculator.csproj",
+        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\GenericCalculator\\GenericCalculator\\GenericCalculator.csproj",
         "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\GenericCalculator\\GenericCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\GenericCalculator\\GenericCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

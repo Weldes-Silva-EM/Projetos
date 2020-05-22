@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\controleDePonto\\controleDePonto\\controleDePonto.csproj",
+      "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\controleDePonto\\controleDePonto\\controleDePonto.csproj",
       "projectName": "controleDePonto",
-      "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\controleDePonto\\controleDePonto\\controleDePonto.csproj",
+      "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\controleDePonto\\controleDePonto\\controleDePonto.csproj",
       "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\controleDePonto\\controleDePonto\\obj\\",
+      "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\controleDePonto\\controleDePonto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

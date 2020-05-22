@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\forEachLoop\\forEachLoop\\forEachLoop.csproj": {}
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\forEachLoop\\forEachLoop\\forEachLoop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Escolar Manager\\source\\repos\\forEachLoop\\forEachLoop\\forEachLoop.csproj": {
+    "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\forEachLoop\\forEachLoop\\forEachLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\forEachLoop\\forEachLoop\\forEachLoop.csproj",
+        "projectUniqueName": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\forEachLoop\\forEachLoop\\forEachLoop.csproj",
         "projectName": "forEachLoop",
-        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\forEachLoop\\forEachLoop\\forEachLoop.csproj",
+        "projectPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\forEachLoop\\forEachLoop\\forEachLoop.csproj",
         "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\forEachLoop\\forEachLoop\\obj\\",
+        "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Projetos\\forEachLoop\\forEachLoop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
